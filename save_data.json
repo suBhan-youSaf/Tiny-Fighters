@@ -1,0 +1,81 @@
+{
+    "username": "subhan",
+    "coins": 55,
+    "collection": [
+        {
+            "name": "Robin",
+            "level": 3,
+            "experience": 75,
+            "exp_cap": 200,
+            "max_health": 120,
+            "power": 25,
+            "dodge": 9,
+            "luck": 7
+        },
+        {
+            "name": "Starfire",
+            "level": 3,
+            "experience": 145,
+            "exp_cap": 200,
+            "max_health": 125,
+            "power": 26,
+            "dodge": 8,
+            "luck": 7
+        },
+        {
+            "name": "Raven",
+            "level": 3,
+            "experience": 140,
+            "exp_cap": 200,
+            "max_health": 110,
+            "power": 28,
+            "dodge": 8,
+            "luck": 8
+        },
+        {
+            "name": "Robin",
+            "level": 2,
+            "experience": 10,
+            "exp_cap": 150,
+            "max_health": 110,
+            "power": 20,
+            "dodge": 7,
+            "luck": 6
+        },
+        {
+            "name": "Beast Boy",
+            "level": 1,
+            "experience": 0,
+            "exp_cap": 100,
+            "max_health": 110,
+            "power": 12,
+            "dodge": 7,
+            "luck": 4
+        },
+        {
+            "name": "Robin",
+            "level": 1,
+            "experience": 0,
+            "exp_cap": 100,
+            "max_health": 100,
+            "power": 15,
+            "dodge": 5,
+            "luck": 5
+        },
+        {
+            "name": "Cyborg",
+            "level": 1,
+            "experience": 0,
+            "exp_cap": 100,
+            "max_health": 130,
+            "power": 14,
+            "dodge": 2,
+            "luck": 3
+        }
+    ],
+    "battle_team_indices": [
+        1,
+        0,
+        3
+    ]
+}
