@@ -1,7 +1,3 @@
-Here is a clean, professional description you can paste directly into your GitHub repository's **README.md** file or use to show off your project to others.
-
----
-
 # 🗼 Teeny Titans: Text Mix Edition
 
 A fully operational, text-based RPG battle engine and collection game inspired by the hit Cartoon Network mobile game *Teeny Titans* (Teen Titans Go!). Built entirely in Python, this game features strategic combat, an economic shopping loop, random gacha unboxings, a dynamic type-advantage system, and a persistent progress-saving engine.
